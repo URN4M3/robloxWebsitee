@@ -1,0 +1,83 @@
+/* CSS Document */
+
+body {
+	background-color: black;
+}
+
+h1 {
+	text-align: center;
+}
+
+h2 {
+	
+}
+
+table {
+	
+}
+
+nav {
+	text-align: center;
+	color: black;
+	background-color: red;
+}
+
+nav a {
+	text-decoration: none;
+	color: black;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 2em 1em 0 0;
+	padding: 0 0 2em;
+}
+
+footer  {
+	text-align: center;
+	background-color: black;
+	color: white;
+}
+
+footer a {
+	text-decoration: none;
+	color: white;
+	display: inline-block;
+	font-size: 1em;
+	font-weight: bold;
+	margin: 2em 1em 0 0;
+	padding: 0 0 2em;
+}
+
+#hero_index {
+	background-image: url("../images/index_pic.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-color: #fff;
+	min-height: 450px;
+}
+
+#hero_studio {
+	background-image: url("../images/studio.jpeg");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+#hero_event {
+	background-image: url("../images/events2.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+#hero_currency {
+	background-image: url("../images/currency.webp");
+	background-size: cover;
+	background-repeat: no-repeat;
+	min-height: 450px;
+}
+
+main {
+	color: white;
+	font-size: 1.25em;
+}
